@@ -1,15 +1,13 @@
-# Project Title
+# SmartEstimator
 
-One Paragraph of project description goes here
+This is a machine learning POC I did for a client at Infogain. I trained a model that can predict the parts of car that needs to be repaired/replaced, when a car accident takes place. This is based on features such as point of impact, speed, fluid leaks, vehicle year make model etc.
+
+The actual implementation and training of machine learning model has been done in azureml (microsoft machine learning platform). This code just provides an interface to the trained model.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+This is a simple web application that can be opened and run in Visual Studio 2015. Simply open the following solution file
 
 ```
-Give examples
+MLPOCUtility.sln
 ```
