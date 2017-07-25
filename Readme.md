@@ -11,3 +11,6 @@ This is a simple web application that can be opened and run in Visual Studio 201
 ```
 MLPOCUtility.sln
 ```
+
+![alt text](/s1.png)
+![alt text](/s2.png)
